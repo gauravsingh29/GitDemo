@@ -10,5 +10,6 @@ public class CalendarDemo {
         System.out.println(sd.format(cal.getTime()));
         System.out.println(cal.get(Calendar.DAY_OF_MONTH));
         System.out.println(  Calendar.DAY_OF_WEEK);
+        System.out.println(  Calendar.DAY_OF_MONTH);
     }
 }
